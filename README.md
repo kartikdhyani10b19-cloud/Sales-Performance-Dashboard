@@ -71,8 +71,8 @@ Sales-Performance-Dashboard/
 
 # 👨‍💻 Author
 
-**Paras Mudgal**
+**Kartik Dhyani**
 
-- GitHub: https://github.com/parasmudgal8-netizen
-- LinkedIn: https://www.linkedin.com/in/paras-mudgal-908900307/
+- GitHub: https://github.com/kartikdhyani10b19-cloud
+- LinkedIn: https://www.linkedin.com/in/kartik-dhyani-1b344730a?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
